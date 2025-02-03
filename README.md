@@ -140,10 +140,7 @@ tokenizer = AutoTokenizer.from_pretrained("pegasus-samsum-model")
 model_pegasus = AutoModelForSeq2SeqLM.from_pretrained("pegasus-samsum-model")
 ```
 
-## License
 
-This project is licensed under the Apache License, Version 2.0. See the [LICENSE](LICENSE) file for details.
 
 ---
 
-This README provides a comprehensive overview of the Pegasus Summarization Project, including setup, training, evaluation, and usage instructions.
