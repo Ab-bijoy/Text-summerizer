@@ -1,6 +1,6 @@
 ## Project Overview
 
-This project implements a text summarization model using the Pegasus architecture from Hugging Face's Transformers library. The model is trained on the SAMSum dataset, which consists of dialogues and their corresponding summaries. The goal is to generate concise summaries from conversational text.
+In this project, i implement a text summarization model using the Pegasus architecture from Hugging Face's Transformers library. The model is trained on the SAMSum dataset, which consists of dialogues and their corresponding summaries. The goal is to generate concise summaries from conversational text.
 
 ## Table of Contents
 
